@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm a passionate computer science student of Indian Institute of Technology Bhubaneswar. I am passionate about programming, real-time applications, and machine learning. I enjoy tackling complex challenges, exploring advanced technologies, and creating impactful software solutions.
+I'm a computer science student of Indian Institute of Technology Bhubaneswar. I am passionate about programming, real-time applications, and machine learning. I enjoy tackling complex challenges, exploring advanced technologies, and creating impactful software solutions.
 <!--
 **notCliche/notCliche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
